@@ -1,8 +1,7 @@
 # FAQ ⁉️
 
-<details><summary>Cletus</summary>
-    
-    [RecRoom](https://correct-link-here.com)
+<details><summary>How much does the printer cost?</summary>
+    Completley **FREE**, 
 </details>
 
 <details><summary>Space</summary>
