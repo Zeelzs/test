@@ -1,9 +1,5 @@
 # FAQ ⁉️
 
-
-
-# Tutorial 📖
-
 <details><summary>Cletus</summary>
     
     [RecRoom](https://correct-link-here.com)
@@ -12,6 +8,8 @@
 <details><summary>Space</summary>
     [RecRoom](https://correct-link-here.com)
 </details>
+
+# Tutorial 📖
 
 ### Windows 💻
 
