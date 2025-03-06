@@ -1,8 +1,12 @@
 # FAQ ⁉️
 
 <details><summary>How much does the printer cost?</summary>
-    Completley **FREE**, 
+    Lorem ipsum odor amet, consectetuer adipiscing elit. Venenatis tellus augue nisi curabitur aptent vel etiam lacus? Condimentum feugiat felis sit, quis id imperdiet dapibus. Vulputate aenean dui per nascetur sem. Inceptos posuere iaculis luctus ultrices hendrerit hendrerit. Litora gravida risus vulputate dapibus nulla. Praesent aliquam aliquam consectetur, at dui lacus nullam.
 </details>
+<details><summary>What do I need to run the printer?</summary>
+    Nostra cursus fames ullamcorper vulputate erat. Varius montes metus molestie quam eu. Porttitor viverra iaculis penatibus magna curabitur sodales hac tortor dui. Mollis parturient ullamcorper montes enim porta diam. Ultrices et feugiat senectus elit habitasse etiam egestas. Vulputate torquent cras nulla at odio sollicitudin purus donec? Efficitur cursus vestibulum vestibulum magnis, orci senectus dapibus consequat.
+</details>
+
 
 <details><summary>Space</summary>
     [RecRoom](https://correct-link-here.com)
