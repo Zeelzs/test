@@ -7,11 +7,6 @@
     Nostra cursus fames ullamcorper vulputate erat. Varius montes metus molestie quam eu. Porttitor viverra iaculis penatibus magna curabitur sodales hac tortor dui. Mollis parturient ullamcorper montes enim porta diam. Ultrices et feugiat senectus elit habitasse etiam egestas. Vulputate torquent cras nulla at odio sollicitudin purus donec? Efficitur cursus vestibulum vestibulum magnis, orci senectus dapibus consequat.
 </details>
 
-
-<details><summary>Space</summary>
-    [RecRoom](https://correct-link-here.com)
-</details>
-
 # Tutorial 📖
 
 ### Windows 💻
