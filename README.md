@@ -25,7 +25,7 @@ Dui eros consectetur facilisis blandit quis ligula. Pretium est fringilla leo in
 
 Luctus habitant felis nulla enim laoreet! Dignissim class ante pulvinar mattis neque a conubia senectus. In praesent metus ullamcorper consectetur nullam rutrum. Vivamus massa molestie convallis varius nostra. Nascetur euismod sed maecenas, litora phasellus malesuada velit metus. Pellentesque metus felis lacinia, at diam eget. Dis orci tempus habitant pulvinar sagittis venenatis erat.
 
-### Standalones VR headsets 🥽
+### Standalone VR headsets 🥽
 
 Dignissim sed velit maecenas sed maximus fringilla potenti. Nulla penatibus sit class, nostra fringilla scelerisque. Orci sed magna sed elementum ac varius diam magnis. Laoreet cursus dictumst nec pellentesque suspendisse vehicula sagittis mollis quis. Mattis morbi nostra auctor non neque efficitur. Ipsum ut conubia luctus elementum consequat ullamcorper metus arcu tristique. Turpis finibus lacus mattis imperdiet aptent fringilla. Vehicula eu maximus ex placerat sagittis fusce nam risus nam?
 
