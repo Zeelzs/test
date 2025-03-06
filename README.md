@@ -1,11 +1,5 @@
-# test
-<details><summary>Does not work</summary>
-[hi](https://hello.ca)
-</details>
-
-
-<details><summary>Does work</summary>
-
-[hi](https://hello.ca)
-
+# Developers 🛠
+<details><summary>Cletus</summary>
+[Github](https://hello.ca)
+[RecRoom](https://hello.ca)
 </details>
