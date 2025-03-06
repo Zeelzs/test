@@ -20,10 +20,12 @@ Luctus habitant felis nulla enim laoreet! Dignissim class ante pulvinar mattis n
 
 Dignissim sed velit maecenas sed maximus fringilla potenti. Nulla penatibus sit class, nostra fringilla scelerisque. Orci sed magna sed elementum ac varius diam magnis. Laoreet cursus dictumst nec pellentesque suspendisse vehicula sagittis mollis quis. Mattis morbi nostra auctor non neque efficitur. Ipsum ut conubia luctus elementum consequat ullamcorper metus arcu tristique. Turpis finibus lacus mattis imperdiet aptent fringilla. Vehicula eu maximus ex placerat sagittis fusce nam risus nam?
 
+### Others
+
 ### Unsupported Operating Systems ❌
 
 - Unix (Linux)
-- Command line based
+- Command line based operating systems
 
 # Developers 🛠
 <details><summary>Cletus</summary>
