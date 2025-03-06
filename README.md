@@ -23,7 +23,7 @@ Dignissim sed velit maecenas sed maximus fringilla potenti. Nulla penatibus sit 
 ### Unsupported Operating Systems ❌
 
 - Unix (Linux)
-- 
+- Command line based
 
 # Developers 🛠
 <details><summary>Cletus</summary>
