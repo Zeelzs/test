@@ -42,10 +42,12 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit convallis dis aliqu
 
 # Developers 🛠
 <details><summary>Cletus</summary>
-    
-    [RecRoom](https://correct-link-here.com)
+    https://rec.net/user/realCletus
+    https://github.com/YugeCletus
 </details>
 
 <details><summary>Space</summary>
-    [RecRoom](https://correct-link-here.com)
+    https://rec.net/user/jSpace
+    https://rec.net/user/tve
+    https://github.com/Zeelzs
 </details>
